@@ -1,4 +1,4 @@
-# 1M cells simulation
+# 1M simulation
 
 
 **Generate 1M or more random numbers using python**
