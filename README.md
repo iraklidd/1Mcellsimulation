@@ -6,4 +6,3 @@
 
 
 - Python numpy
-- Excel tepmlate
